@@ -8,7 +8,7 @@
     - Atma.js
     - ComponentJS
     - AngularDart
-
+ 
 - Updates since 1.2:
     - VanillaJS refactored, tests, bug fixes
     - AngularJS perf
